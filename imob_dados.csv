@@ -1,0 +1,301 @@
+Bairro,TipoImovel,Area,Quartos,Vagas,ValorAluguel
+Centro,Apartamento,75,2,1,1800
+Centro,Apartamento,90,3,2,2500
+Mauricio de Nassau,Apartamento,120,3,2,3200
+Mauricio de Nassau,Casa,180,4,3,4500
+Indianopolis,Kitnet,35,1,0,900
+Indianopolis,Apartamento,70,2,1,1600
+Universitario,Kitnet,30,1,0,850
+Universitario,Apartamento,65,2,1,1500
+Boa Vista,Casa,200,4,2,4200
+Boa Vista,Apartamento,85,3,1,2200
+Centro,Kitnet,28,1,0,800
+Mauricio de Nassau,Apartamento,100,3,2,2900
+Indianopolis,Casa,150,3,2,3500
+Universitario,Casa,140,3,2,3300
+Boa Vista,Kitnet,32,1,0,950
+Centro,Casa,170,4,2,4000
+Mauricio de Nassau,Kitnet,40,1,1,1200
+Indianopolis,Apartamento,95,3,2,2700
+Universitario,Apartamento,80,2,1,1900
+Boa Vista,Apartamento,110,3,2,3100
+Centro,Apartamento,60,2,1,1400
+Mauricio de Nassau,Casa,220,5,3,5200
+Indianopolis,Kitnet,38,1,0,1000
+Universitario,Kitnet,42,1,1,1100
+Boa Vista,Casa,250,5,3,5800
+Centro,Apartamento,70,2,1,1700
+Mauricio de Nassau,Apartamento,130,4,2,3600
+Indianopolis,Casa,160,4,2,3900
+Universitario,Apartamento,72,2,1,1750
+Boa Vista,Apartamento,92,3,2,2600
+Centro,Kitnet,34,1,0,950
+Mauricio de Nassau,Kitnet,45,1,1,1300
+Indianopolis,Apartamento,88,3,1,2400
+Universitario,Casa,155,4,2,3700
+Boa Vista,Kitnet,36,1,0,1050
+Centro,Casa,190,4,3,4700
+Mauricio de Nassau,Apartamento,105,3,2,3000
+Indianopolis,Kitnet,33,1,0,850
+Universitario,Apartamento,98,3,2,2800
+Boa Vista,Casa,210,4,3,5000
+Centro,Casa,107,2,1,2500
+Mauricio de Nassau,Casa,219,4,2,5950
+Indianopolis,Apartamento,62,2,0,1750
+Universitario,Casa,203,4,3,5000
+Boa Vista,Apartamento,88,3,3,2950
+Centro,Apartamento,131,4,2,3100
+Mauricio de Nassau,Apartamento,116,3,2,3750
+Indianopolis,Casa,198,4,2,4950
+Universitario,Kitnet,44,1,1,1200
+Boa Vista,Apartamento,45,1,0,1550
+Centro,Kitnet,28,1,0,800
+Mauricio de Nassau,Kitnet,30,1,0,950
+Indianopolis,Apartamento,114,4,3,3450
+Universitario,Apartamento,63,2,1,1950
+Boa Vista,Kitnet,26,1,0,800
+Centro,Apartamento,61,2,1,1700
+Mauricio de Nassau,Apartamento,119,3,3,3500
+Indianopolis,Apartamento,112,3,2,3250
+Universitario,Apartamento,101,3,2,3100
+Boa Vista,Apartamento,79,2,0,2400
+Centro,Apartamento,76,2,2,2250
+Mauricio de Nassau,Apartamento,107,3,2,3650
+Indianopolis,Kitnet,25,1,0,750
+Universitario,Kitnet,33,1,1,1000
+Boa Vista,Apartamento,55,2,1,2100
+Centro,Casa,163,4,3,4500
+Mauricio de Nassau,Casa,143,3,2,4250
+Indianopolis,Casa,150,4,3,4200
+Universitario,Apartamento,81,2,1,2100
+Boa Vista,Apartamento,83,3,1,2700
+Centro,Kitnet,42,1,1,1100
+Mauricio de Nassau,Apartamento,94,3,3,3550
+Indianopolis,Kitnet,48,1,0,1250
+Universitario,Apartamento,101,3,3,3200
+Boa Vista,Apartamento,57,2,1,1750
+Centro,Casa,150,4,2,3950
+Mauricio de Nassau,Apartamento,39,1,0,1250
+Indianopolis,Apartamento,91,3,2,2850
+Universitario,Kitnet,43,1,0,1150
+Boa Vista,Kitnet,31,1,0,1000
+Centro,Apartamento,82,2,0,2100
+Mauricio de Nassau,Kitnet,28,1,0,1000
+Indianopolis,Kitnet,28,1,0,800
+Universitario,Apartamento,63,2,2,1900
+Boa Vista,Kitnet,39,1,1,1350
+Centro,Apartamento,112,3,1,3050
+Mauricio de Nassau,Kitnet,32,1,0,1050
+Indianopolis,Apartamento,56,2,1,1750
+Universitario,Kitnet,33,1,1,1100
+Boa Vista,Apartamento,124,3,3,3500
+Centro,Apartamento,147,4,2,3850
+Mauricio de Nassau,Apartamento,110,3,2,3100
+Indianopolis,Casa,158,4,2,4300
+Universitario,Apartamento,83,2,1,2250
+Boa Vista,Apartamento,76,2,1,2550
+Centro,Apartamento,93,3,2,2550
+Mauricio de Nassau,Casa,140,3,1,3550
+Indianopolis,Casa,162,4,2,4300
+Universitario,Casa,142,3,1,3750
+Boa Vista,Apartamento,81,2,1,2500
+Centro,Kitnet,45,1,0,1150
+Mauricio de Nassau,Casa,213,5,4,6000
+Indianopolis,Kitnet,48,1,0,1150
+Universitario,Casa,176,4,3,4550
+Boa Vista,Apartamento,113,4,2,3550
+Centro,Kitnet,26,1,0,800
+Mauricio de Nassau,Casa,167,3,3,4950
+Indianopolis,Apartamento,40,1,0,1250
+Universitario,Kitnet,43,1,0,1100
+Boa Vista,Apartamento,84,2,0,2500
+Centro,Apartamento,58,2,1,1800
+Mauricio de Nassau,Kitnet,38,1,1,1350
+Indianopolis,Kitnet,32,1,1,1150
+Universitario,Kitnet,38,1,0,1050
+Boa Vista,Apartamento,125,4,3,3600
+Centro,Casa,122,3,3,3200
+Mauricio de Nassau,Kitnet,39,1,0,1250
+Indianopolis,Kitnet,32,1,0,850
+Universitario,Apartamento,95,3,2,2800
+Boa Vista,Apartamento,144,4,3,4650
+Centro,Apartamento,121,4,3,3050
+Mauricio de Nassau,Casa,170,3,2,4700
+Indianopolis,Kitnet,28,1,0,850
+Universitario,Apartamento,78,3,2,2350
+Boa Vista,Apartamento,99,3,2,3200
+Centro,Apartamento,142,4,3,3850
+Mauricio de Nassau,Apartamento,113,3,2,3250
+Indianopolis,Casa,167,3,2,4300
+Universitario,Apartamento,78,3,2,2300
+Boa Vista,Apartamento,119,3,2,3450
+Centro,Apartamento,70,2,1,2000
+Mauricio de Nassau,Apartamento,117,3,2,3300
+Indianopolis,Kitnet,32,1,0,900
+Universitario,Apartamento,45,1,1,1450
+Boa Vista,Casa,160,3,2,4600
+Centro,Apartamento,59,2,0,1700
+Mauricio de Nassau,Kitnet,28,1,1,1050
+Indianopolis,Kitnet,47,1,0,1100
+Universitario,Apartamento,107,3,2,3100
+Boa Vista,Casa,276,5,4,7950
+Centro,Kitnet,44,1,1,1300
+Mauricio de Nassau,Apartamento,138,4,3,4500
+Indianopolis,Apartamento,62,2,1,2000
+Universitario,Casa,185,4,4,4500
+Boa Vista,Apartamento,65,2,0,1800
+Centro,Apartamento,123,3,2,2850
+Mauricio de Nassau,Apartamento,104,3,1,2950
+Indianopolis,Apartamento,147,4,2,4150
+Universitario,Casa,120,3,2,3150
+Boa Vista,Apartamento,104,3,2,3200
+Centro,Apartamento,67,2,1,1950
+Mauricio de Nassau,Kitnet,48,1,0,1350
+Indianopolis,Apartamento,79,3,3,2700
+Universitario,Casa,147,3,2,4000
+Boa Vista,Apartamento,65,2,1,2100
+Centro,Apartamento,95,3,3,2650
+Mauricio de Nassau,Apartamento,55,1,0,1850
+Indianopolis,Apartamento,119,3,1,3250
+Universitario,Kitnet,31,1,1,1050
+Boa Vista,Apartamento,58,2,1,1950
+Centro,Apartamento,74,2,0,1950
+Mauricio de Nassau,Apartamento,73,2,0,2350
+Indianopolis,Casa,248,5,4,6850
+Universitario,Apartamento,118,3,2,2900
+Boa Vista,Casa,165,4,2,4500
+Centro,Apartamento,71,2,1,1750
+Mauricio de Nassau,Apartamento,68,2,1,2300
+Indianopolis,Kitnet,47,1,0,1100
+Universitario,Casa,218,4,4,5450
+Boa Vista,Kitnet,43,1,0,1300
+Centro,Kitnet,27,1,0,800
+Mauricio de Nassau,Casa,198,4,3,5150
+Indianopolis,Kitnet,30,1,0,850
+Universitario,Apartamento,74,2,1,2100
+Boa Vista,Casa,135,3,3,4100
+Centro,Casa,212,4,4,5500
+Mauricio de Nassau,Apartamento,77,2,1,2350
+Indianopolis,Casa,217,4,3,5350
+Universitario,Casa,164,3,3,4050
+Boa Vista,Apartamento,61,2,1,1850
+Centro,Casa,173,4,3,4100
+Mauricio de Nassau,Apartamento,111,3,2,3750
+Indianopolis,Kitnet,34,1,0,900
+Universitario,Apartamento,95,3,1,2800
+Boa Vista,Casa,166,4,4,4650
+Centro,Apartamento,70,2,2,2000
+Mauricio de Nassau,Kitnet,33,1,1,1200
+Indianopolis,Kitnet,37,1,0,1050
+Universitario,Casa,171,3,2,3800
+Boa Vista,Apartamento,104,3,2,3350
+Centro,Apartamento,129,4,3,3350
+Mauricio de Nassau,Casa,162,4,3,5050
+Indianopolis,Apartamento,62,2,1,1900
+Universitario,Apartamento,77,2,2,2200
+Boa Vista,Apartamento,122,3,3,3400
+Centro,Apartamento,80,2,1,2100
+Mauricio de Nassau,Casa,184,4,3,4900
+Indianopolis,Apartamento,78,2,1,2200
+Universitario,Apartamento,67,2,1,1950
+Boa Vista,Apartamento,56,2,2,2200
+Centro,Casa,104,2,1,2900
+Mauricio de Nassau,Casa,122,3,2,3750
+Indianopolis,Casa,223,5,4,6000
+Universitario,Apartamento,66,2,2,2000
+Boa Vista,Casa,192,4,4,5750
+Centro,Apartamento,145,4,2,3600
+Mauricio de Nassau,Apartamento,79,2,2,2850
+Indianopolis,Kitnet,25,1,0,800
+Universitario,Apartamento,66,2,2,2150
+Boa Vista,Casa,155,3,2,4650
+Centro,Apartamento,85,3,1,2500
+Mauricio de Nassau,Casa,130,3,2,4000
+Indianopolis,Casa,173,3,1,4100
+Universitario,Apartamento,109,3,2,2950
+Boa Vista,Apartamento,108,3,2,3250
+Centro,Apartamento,74,2,1,2150
+Mauricio de Nassau,Apartamento,104,3,2,3600
+Indianopolis,Casa,186,4,3,5200
+Universitario,Casa,169,4,4,4650
+Boa Vista,Apartamento,112,3,3,3500
+Centro,Apartamento,77,2,1,2100
+Mauricio de Nassau,Apartamento,80,3,2,2900
+Indianopolis,Casa,199,4,3,5100
+Universitario,Apartamento,115,3,2,3300
+Boa Vista,Kitnet,39,1,0,1200
+Centro,Apartamento,82,2,1,1950
+Mauricio de Nassau,Kitnet,33,1,0,1100
+Indianopolis,Casa,218,4,4,6150
+Universitario,Casa,262,5,3,6300
+Boa Vista,Apartamento,96,3,2,3150
+Centro,Apartamento,75,2,0,1850
+Mauricio de Nassau,Casa,205,5,4,6500
+Indianopolis,Apartamento,59,2,1,1850
+Universitario,Casa,171,4,3,4100
+Boa Vista,Kitnet,44,1,0,1250
+Centro,Casa,160,3,2,3850
+Mauricio de Nassau,Casa,259,5,4,7500
+Indianopolis,Apartamento,66,2,1,2050
+Universitario,Apartamento,82,2,1,2100
+Boa Vista,Apartamento,62,2,2,2250
+Centro,Casa,237,5,3,6100
+Mauricio de Nassau,Casa,156,3,1,4600
+Indianopolis,Casa,186,4,3,4950
+Universitario,Apartamento,117,3,2,3250
+Boa Vista,Casa,167,4,2,5050
+Centro,Casa,148,3,1,3550
+Mauricio de Nassau,Casa,138,3,2,4300
+Indianopolis,Apartamento,72,2,1,2100
+Universitario,Kitnet,30,1,0,900
+Boa Vista,Apartamento,125,3,2,3850
+Centro,Apartamento,45,1,1,1550
+Mauricio de Nassau,Kitnet,36,1,0,1100
+Indianopolis,Apartamento,66,2,1,2000
+Universitario,Kitnet,36,1,0,900
+Boa Vista,Apartamento,113,3,2,3650
+Centro,Apartamento,52,1,0,1400
+Mauricio de Nassau,Apartamento,39,1,0,1500
+Indianopolis,Apartamento,72,2,1,2050
+Universitario,Apartamento,144,4,3,3950
+Boa Vista,Casa,212,5,4,6200
+Centro,Kitnet,33,1,0,850
+Mauricio de Nassau,Apartamento,133,4,2,4400
+Indianopolis,Apartamento,132,4,2,3500
+Universitario,Apartamento,82,2,2,2200
+Boa Vista,Apartamento,79,3,1,2650
+Centro,Apartamento,73,2,1,1800
+Mauricio de Nassau,Casa,133,3,2,3900
+Indianopolis,Apartamento,110,4,3,3550
+Universitario,Apartamento,63,2,1,1700
+Boa Vista,Kitnet,29,1,0,1000
+Centro,Apartamento,60,2,1,1600
+Mauricio de Nassau,Casa,158,4,4,5000
+Indianopolis,Apartamento,106,3,2,3250
+Universitario,Apartamento,120,3,2,3150
+Boa Vista,Kitnet,26,1,1,1100
+Centro,Apartamento,77,2,2,2050
+Mauricio de Nassau,Apartamento,82,3,2,2700
+Indianopolis,Casa,191,4,4,5650
+Universitario,Casa,158,3,3,3800
+Boa Vista,Casa,220,4,3,5800
+Centro,Kitnet,38,1,0,950
+Mauricio de Nassau,Apartamento,68,2,1,2300
+Indianopolis,Apartamento,84,2,2,2250
+Universitario,Kitnet,27,1,0,850
+Boa Vista,Apartamento,56,2,1,2000
+Centro,Apartamento,105,3,1,2900
+Mauricio de Nassau,Casa,156,3,2,4150
+Indianopolis,Apartamento,100,3,2,2650
+Universitario,Apartamento,68,2,0,1850
+Boa Vista,Casa,153,4,3,4400
+Centro,Casa,244,5,3,5350
+Mauricio de Nassau,Apartamento,82,3,2,2950
+Indianopolis,Kitnet,27,1,1,900
+Universitario,Apartamento,66,2,1,2000
+Boa Vista,Casa,160,4,2,4200
+Centro,Casa,95,2,1,2450
+Mauricio de Nassau,Apartamento,104,3,2,3100
+Indianopolis,Casa,127,3,2,3600
+Universitario,Casa,189,4,2,4350
+Boa Vista,Kitnet,26,1,0,850
